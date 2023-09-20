@@ -12,7 +12,7 @@
 - 🏹 Currently learning  **Java, rust**
 - 💬 Ask me about **java,php,python**
 
-- 📫 How to reach me **janakraj4552@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
